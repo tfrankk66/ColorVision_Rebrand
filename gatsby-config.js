@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-      title: `new`,
+      title: `ColorVision Printing`,
     siteUrl: `https://www.yourdomain.tld`
   },
   plugins: ["gatsby-plugin-styled-components", "gatsby-plugin-image", "gatsby-plugin-react-helmet", "gatsby-plugin-sitemap", "gatsby-plugin-sharp", "gatsby-transformer-sharp", {
